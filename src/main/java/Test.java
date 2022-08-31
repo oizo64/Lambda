@@ -31,7 +31,7 @@ public class Test {
 
         int force = 6;
         System.out.println(drivable.accelerate(force));
-
+        System.out.println(drivable.accelerate(force));
 
         List<String> namesList = Arrays.asList("John", "Marry", "George", "Paul", "Alice", "Ann");
         namesList
