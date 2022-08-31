@@ -33,7 +33,7 @@ public class Test {
         System.out.println(drivable.accelerate(force));
         System.out.println(drivable.accelerate(force));
 
-        List<String> namesList = Arrays.asList("Joh4rrsn", "Marry", "George", "Paul", "Alice", "Ann");
+        List<String> namesList = Arrays.asList("Joh4rrrtyhrtysn", "Mar3r23rry", "George", "Paul", "Alice", "Ann");
         namesList
                 .stream()
                 .filter(e -> e.startsWith("A"))
